@@ -1,5 +1,6 @@
-<h1 align="center">Olá 👋, meu nome é Nawane</h1>
-<h3 align="center">Starting my developer journey</h3>
+<h1 align="center">Olá, meu nome é Nawane</h1>
+<h3 align="center">Começando minha carreira no mundo da tecnologia. </h3>
+<h3 align="center">Apaixonada por tecnologia, gatos e cafe. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawanelm&label=Profile%20views&color=0e75b6&style=flat" alt="nawanelm" /> </p>
 
